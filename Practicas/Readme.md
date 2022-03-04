@@ -1,6 +1,6 @@
 ### Practicas de la semana 1 de la Misión FrontEnd del curso LaunchX
 
-# Cabe aclarar que para estas actividades, se tomó en cuenta el caso "Abogabot" con fue propuesto en el repositorio del curso
+Cabe aclarar que para estas actividades, se tomó en cuenta el caso "Abogabot" que fue propuesto en el repositorio del curso
 
 - [Practica 1 .- Requerimientos](https://github.com/RolandoGonzalezG/FrontEnd---Semana-1/blob/main/Practicas/1.-Requerimientos.doc).
 - [Practica 2 .- Buyer persona](https://github.com/RolandoGonzalezG/FrontEnd---Semana-1/blob/main/Practicas/2.-persona.docx).
